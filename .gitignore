@@ -1,0 +1,17 @@
+.venv/
+backups/
+data/
+models/
+outputs/
+
+*.log
+*.zip
+tempCodeRunnerFile.py
+
+__pycache__/
+*.pyc
+*.pyo
+
+.vscode/
+.DS_Store
+Thumbs.db
